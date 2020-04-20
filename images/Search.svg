@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.463206572" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0977740119 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.0926269531 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M186.003487,56.9977447 C185.16723,57.6270195 184.127172,58 183,58 C180.238576,58 178,55.7614239 178,53 C178,50.2385761 180.238576,48 183,48 C185.761424,48 188,50.2385761 188,53 C188,54.1271594 187.627028,55.1672064 186.997766,56.0034586 C187.304051,55.9789188 187.618625,56.0850172 187.853563,56.3201189 L191.678011,60.1472377 C192.110717,60.5802462 192.103186,61.2588981 191.680254,61.6821259 C191.254373,62.1083044 190.570608,62.1043487 190.146437,61.6798811 L186.321989,57.8527623 C186.08374,57.6143467 185.978954,57.301461 186.003487,56.9977447 Z M183,57 C185.209139,57 187,55.2091391 187,53 C187,50.7908609 185.209139,49 183,49 C180.790861,49 179,50.7908609 179,53 C179,55.2091391 180.790861,57 183,57 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Sketch-Icons---Volume-1" sketch:type="MSArtboardGroup" transform="translate(-176.000000, -46.000000)" filter="url(#filter-2)">
+            <g id="Search">
+                <use fill-opacity="0.617618336" fill="#542118" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                <use fill-opacity="0.0272017045" fill="none" xlink:href="#path-3"></use>
+                <use fill-opacity="0.0635653409" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

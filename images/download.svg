@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="34px" viewBox="0 0 30 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 55</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-444.000000, -359.000000)" stroke="#40260B" fill="#40260B">
+            <path d="M469,364 L466,364 L466,366 L469,366 C470.104,366 471,366.896 471,368 L471,388 C471,389.104 470.104,390 469,390 L449,390 C447.896,390 447,389.104 447,388 L447,368 C447,366.896 447.896,366 449,366 L452,366 L452,364 L449,364 C446.791,364 445,365.791 445,368 L445,388 C445,390.209 446.791,392 449,392 L469,392 C471.209,392 473,390.209 473,388 L473,368 C473,365.791 471.209,364 469,364 L469,364 Z M451.343,378.758 L458.242,385.657 C458.451,385.865 458.728,385.954 459,385.939 C459.272,385.954 459.549,385.865 459.758,385.657 L466.657,378.758 C467.048,378.367 467.048,377.733 466.657,377.343 C466.267,376.953 465.633,376.953 465.242,377.343 L460,382.586 L460,361 C460,360.447 459.553,360 459,360 C458.448,360 458,360.447 458,361 L458,382.586 L452.757,377.343 C452.367,376.953 451.733,376.953 451.343,377.343 C450.952,377.733 450.952,378.367 451.343,378.758 L451.343,378.758 Z" id="Fill-55" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
